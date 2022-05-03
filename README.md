@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matutaj
-- 👀 Estou interessado em Progamação  web
+- 👀 Estou interessado em javascript
 - 🌱 Atualmente estou aprendendo  o Nodejs
 - 💞️ I’m looking to collaborate on  em projetos
 - 📫 How to reach me  a partir do meu github do discord Matuta Jorge
