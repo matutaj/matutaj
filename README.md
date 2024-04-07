@@ -1,5 +1,5 @@
 ## Olá! Meu Nome É Matuta Jorge 👋🏾
-### Apaixonado Por tecnologia E Um Eterno Aprendiz
+### Apaixonado Por Tecnologia E Um Eterno Aprendiz
 
 ## Tecnologias Do meu dia a dia
 
